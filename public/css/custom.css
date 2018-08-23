@@ -1,0 +1,42 @@
+.label-position {
+    margin-top: 5%;
+}
+
+.mid-label-position {
+    padding-top: 10px;
+}
+
+.img-position {
+    width: 70%;
+    height: auto;
+}
+
+.profile-pic-position {
+    margin-top: unset !important;
+}
+
+.profile-font-color {
+    color: black !important;
+    text-shadow: unset !important;
+}
+
+.action-icon-size {
+    font-size: 20px;
+}
+
+.action-icon-position {
+    margin-left: -4px;
+}
+
+.btn-outline-reservation {
+    border: 1px solid #00B5B8 !important;
+    color: #00B5B8;
+}
+
+.select2-selection__rendered{
+    padding-left: 30px !important;
+}
+
+.schedule_td_center {
+    text-align: center;
+}
